@@ -1,7 +1,7 @@
 "use client"
  
 import { useEffect, useRef } from "react"
-
+ 
 interface DarkWarpShaderProps {
   proportion?: number
   softness?: number
