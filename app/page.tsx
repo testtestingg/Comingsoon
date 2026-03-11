@@ -24,13 +24,6 @@ export default function Home() {
       <div className="relative z-10 min-h-screen flex items-center justify-center px-8">
         <div className="max-w-2xl w-full text-center space-y-8">
           <h1 className="text-white text-6xl md:text-7xl font-sans font-light italic">Under Construction</h1>
-
-          {/* Description text */}
-          <p className="text-white/90 text-lg font-sans font-light leading-relaxed">
-            Don't miss out on the latest news and special content!
-            <br />
-            Sign up for our newsletter now and stay in the loop with every update.
-          </p>
         </div>
       </div>
     </main>
